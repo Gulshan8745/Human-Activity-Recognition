@@ -1,5 +1,5 @@
 # Human-Activity-Recognition
-Hello Everyone,
+Hello Everyone, 
 This is Gulshan. I have build the AI based Human Activity Recognition System. it can be used for your college projects & more. Take a look of it.
 “Human Activity Recognition” is an exciting venture into realm of Machine Learning and artificial 
 intelligence. It aims to identify and categorize human activities based on sensor data, using a combination of 
